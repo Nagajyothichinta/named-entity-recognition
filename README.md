@@ -11,7 +11,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Neural Network Model
 
-![image](https://github.com/Nagajyothichinta/named-entity-recognition/assets/94191344/870be9f7-83c0-469a-9f32-bac48e7e9a9c)
+![image](https://github.com/Nagajyothichinta/named-entity-recognition/assets/94191344/dc597d6f-2e6e-4c91-8f8b-28e1cd7ab84b)
+
 
 
 ## DESIGN STEPS
